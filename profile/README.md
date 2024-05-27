@@ -1,6 +1,8 @@
 # Welcome to the Lundby lab!
 We are a [research group at the University of Copenhagen](https://www.cardiacproteomics.com).
 
+Please see a [full list of our publications on PubMed](https://pubmed.ncbi.nlm.nih.gov/?term=alicia+lundby+%5Bauthor%5D).
+
 # Our research
 Cardiac proteomics is the merging of two scientific disciplines: molecular cardiac physiology and high resolution proteomics technology. In the interface between these two disciplines novel mechanistic insight on molecular regulatory mechanisms of the heart can be achieved. Cardiac proteomics allows for unbiased investigations of protein and signaling changes taking place in cardiac tissue, and it is a scientific field spearheaded by the Lundby group.
  
